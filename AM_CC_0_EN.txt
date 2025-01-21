@@ -19,10 +19,14 @@ In the unfortunate event that you post a site that is included in the list:
 
 
 
-Site list reference (listed address main site or sub-site is only for reference, does not exclude the possibility of changing the address, the listed site main site and sub-site are prohibited)
+Site list reference 
+[listed address main site or sub-site is only for reference, does not exclude the possibility of changing the address]
+[the listed site main site and sub-site are prohibited]
 1.mcbbs
 Reference address: mcbbs.net
 2.bilibili
 Reference address: bilibili.tv
 3.quark
 Reference address: quark.cn
+4.netease
+Reference address: 163.com
